@@ -2,6 +2,7 @@
 
 ## Description
 9,000 Images of 180 People - Driver Gesture 21 Landmarks Annotation Data. This data diversity includes multiple age periods, multiple time periods, multiple gestures, multiple vehicle types, multiple time periods. For annotation, the vehicle type, gesture type, person nationality, gender, age and gesture 21 landmarks (each landmark includes the attribute of visible and invisible) were annotated. This data can be used for tasks such as driver gesture recognition, gesture landmarks detection and recognition.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1576?source=Github
 
 ## Specifications
