@@ -1,0 +1,304 @@
+{
+    "dataList": [
+        {
+            "id": 5,
+            "shapeType": "point",
+            "label": "大拇指顶端中心",
+            "coordinates": [
+                417,
+                654
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 4,
+            "shapeType": "point",
+            "label": "大拇指中间关节中心",
+            "coordinates": [
+                382,
+                619
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 3,
+            "shapeType": "point",
+            "label": "大拇指根部关节中心",
+            "coordinates": [
+                430,
+                640
+            ],
+            "properties": {
+                "Visible or not": "invisible"
+            }
+        },
+        {
+            "id": 2,
+            "shapeType": "point",
+            "label": "大拇指掌骨中心",
+            "coordinates": [
+                469,
+                677
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 1,
+            "shapeType": "point",
+            "label": "腕关节中心",
+            "coordinates": [
+                457,
+                741
+            ],
+            "properties": {
+                "Visible or not": "invisible"
+            }
+        },
+        {
+            "id": 9,
+            "shapeType": "point",
+            "label": "食指顶端中心",
+            "coordinates": [
+                392,
+                826
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 8,
+            "shapeType": "point",
+            "label": "食指从下方起第二个骨节中心",
+            "coordinates": [
+                399,
+                776
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 7,
+            "shapeType": "point",
+            "label": "食指从下方起第一个骨节中心",
+            "coordinates": [
+                410,
+                741
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 6,
+            "shapeType": "point",
+            "label": "食指下方关节点中心",
+            "coordinates": [
+                421,
+                696
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 1,
+            "shapeType": "point",
+            "label": "腕关节中心",
+            "coordinates": [
+                457,
+                741
+            ],
+            "properties": {
+                "Visible or not": "invisible"
+            }
+        },
+        {
+            "id": 13,
+            "shapeType": "point",
+            "label": "中指顶端中心",
+            "coordinates": [
+                375,
+                908
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 12,
+            "shapeType": "point",
+            "label": "中指从下方起第二个骨节中心",
+            "coordinates": [
+                404,
+                868
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 11,
+            "shapeType": "point",
+            "label": "中指从下方起第一个骨节中心",
+            "coordinates": [
+                418,
+                831
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 10,
+            "shapeType": "point",
+            "label": "中指下方关节点中心",
+            "coordinates": [
+                444,
+                780
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 1,
+            "shapeType": "point",
+            "label": "腕关节中心",
+            "coordinates": [
+                457,
+                741
+            ],
+            "properties": {
+                "Visible or not": "invisible"
+            }
+        },
+        {
+            "id": 17,
+            "shapeType": "point",
+            "label": "无名指顶端中心",
+            "coordinates": [
+                380,
+                944
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 16,
+            "shapeType": "point",
+            "label": "无名指从下方起第二个骨节中心",
+            "coordinates": [
+                428,
+                900
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 15,
+            "shapeType": "point",
+            "label": "无名指从下方起第一个骨节中心",
+            "coordinates": [
+                447,
+                859
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 14,
+            "shapeType": "point",
+            "label": "无名指下方关节点中心",
+            "coordinates": [
+                460,
+                812
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 1,
+            "shapeType": "point",
+            "label": "腕关节中心",
+            "coordinates": [
+                457,
+                741
+            ],
+            "properties": {
+                "Visible or not": "invisible"
+            }
+        },
+        {
+            "id": 21,
+            "shapeType": "point",
+            "label": "小拇指顶端中心",
+            "coordinates": [
+                420,
+                944
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 20,
+            "shapeType": "point",
+            "label": "小拇指从下方起第二个骨节中心",
+            "coordinates": [
+                447,
+                919
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 19,
+            "shapeType": "point",
+            "label": "小拇指从下方起第一个骨节中心",
+            "coordinates": [
+                468,
+                879
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 18,
+            "shapeType": "point",
+            "label": "小拇指下方关节点中心",
+            "coordinates": [
+                477,
+                832
+            ],
+            "properties": {
+                "Visible or not": "visible"
+            }
+        },
+        {
+            "id": 1,
+            "shapeType": "point",
+            "label": "腕关节中心",
+            "coordinates": [
+                457,
+                741
+            ],
+            "properties": {
+                "Visible or not": "invisible"
+            }
+        }
+    ]
+}
